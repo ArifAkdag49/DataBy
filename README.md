@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DataBy
-- 👀 I’m interested in Devop's tools 
-- 🌱 I’m currently learning Argo-CD
+- 👀 I’m interested in Devop's tools ( Kubernetes, Docker, Terraform, Ansible ) 
+- 🌱 I’m currently learning Argo-CD and Git-Lab
 - 💞️ I’m looking to collaborate on Terraform
 - 📫 How to reach me ...
 
